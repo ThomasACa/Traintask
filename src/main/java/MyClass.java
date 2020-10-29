@@ -3,5 +3,6 @@ public class MyClass {
         System.out.println("Branch one");
         System.out.println("Second change");
         System.out.println("Test change");
+        System.out.println("branch_4");
     }
 }
